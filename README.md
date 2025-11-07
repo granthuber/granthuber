@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I’m Grant
 
-<!--
-**granthuber/granthuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m beginning my journey into cybersecurity and cloud, focused on building strong fundamentals and documenting everything I learn along the way.
 
-Here are some ideas to get you started:
+I’m especially interested in how cloud platforms can be secured, monitored, and hardened against real-world threats. My goal is to build a strong foundation in security fundamentals while developing hands-on experience with cloud environments, Linux, networking, and threat analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is where I keep my projects, lab notes, and learning progress as I move through my training. More to come as I grow.
+
+What I’m Learning Right Now
+	•	Security fundamentals
+	•	Linux basics and system navigation
+	•	Network concepts
+	•	SIEM/log analysis
+	•	Cloud foundations
+
+What You’ll Find Here
+	•	Lab writeups
+	•	Security investigation notes
+	•	Cloud projects
+	•	Linux practice
+	•	Documentation of my growth
+
+LinkedIn: https://www.linkedin.com/in/grant-huber-741974397
+
+Email: grantjhuber@gmail.com
