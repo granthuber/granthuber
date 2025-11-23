@@ -1,39 +1,36 @@
-## 👋 Hi, I’m Grant
+# Grant Huber — IT Support | IAM Trainee
 
-I specialize in **Identity & Access Management (IAM)** with a focus on authentication, access governance, and cloud identity platforms. My GitHub showcases projects and labs centered around modern identity standards and enterprise IAM tools.
-
-### Identity & Access Management Skills
-- **Okta Administration:** SSO integrations, MFA, directory services, SCIM provisioning, lifecycle management  
-- **Azure Entra ID:** Conditional Access, PIM, access reviews, enterprise app SSO, identity governance  
-- **Identity Standards:** SAML, OIDC, OAuth 2.0, JWT, RBAC  
-- **Security Principles:** Zero Trust architecture, least privilege, secure authentication flows  
-
-### Projects & Labs
-- **Okta SSO Implementations**  
-  Configuring SAML and OIDC applications, MFA policies, and provisioning workflows.
-
-- **Azure IAM Configurations**  
-  Conditional Access enforcement, identity governance settings, PIM role management, and SSO integrations.
-
-- **Identity Protocol Labs**  
-  Practical demonstrations of authentication flows, token behavior, and federation concepts.
-
-- **Lifecycle Automation**  
-  Group-based access, provisioning logic, and access lifecycle rules aligned with IAM best practices.
-
-### What You’ll Find Here
-- Practical IAM configurations and examples  
-- Documentation-style notes on identity protocols  
-- Reusable templates for Okta and Entra ID setups  
-- IAM-focused scripts, diagrams, and workflow explanations  
-
-### Areas of Ongoing Interest
-- Cloud identity governance  
-- Authentication architecture and secure federation  
-- Access lifecycle automation and policy design  
-- Integrating Zero Trust principles across identity systems  
+Welcome! I'm Grant, an early-career IT professional building skills in **technical support**, **identity management**, and **cloud administration**.
 
 ---
 
-**Connect with me**  
-[LinkedIn] https://www.linkedin.com/in/grantjhuber
+## Technical Skills
+- IT Support (Windows, M365, user troubleshooting)
+- Active Directory & Entra ID basics
+- Okta Identity fundamentals
+- PowerShell (beginner → intermediate)
+- Security fundamentals (Google Cybersecurity Certificate)
+
+---
+
+## Currently Learning
+- SC-900: Microsoft Security, Compliance & Identity
+- AZ-900: Azure Fundamentals
+- IAM fundamentals (SSO, MFA, RBAC, CA)
+- PowerShell identity automation
+
+---
+
+## Upcoming Projects
+This GitHub will include:
+
+- Help Desk troubleshooting logs
+- Microsoft 365 admin practice
+- PowerShell basic automation scripts
+- IAM lab projects (Okta + Entra ID)
+
+---
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/grantjhuber  
+Email: grantjhuber@gmail.com
